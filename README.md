@@ -51,4 +51,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sparshk13/LeetCode/tree/master/0191-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sparshk13/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
