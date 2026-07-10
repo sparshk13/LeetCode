@@ -54,6 +54,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sparshk13/LeetCode/tree/master/0070-climbing-stairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sparshk13/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Tree
 |  |
@@ -71,4 +72,12 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sparshk13/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sparshk13/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sparshk13/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
