@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sparshk13/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0322-coin-change](https://github.com/sparshk13/LeetCode/tree/master/0322-coin-change) |
 | [0875-koko-eating-bananas](https://github.com/sparshk13/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
@@ -71,6 +72,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/sparshk13/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sparshk13/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/sparshk13/LeetCode/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sparshk13/LeetCode/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/sparshk13/LeetCode/tree/master/0322-coin-change) |
 ## Memoization
 |  |
 | ------- |
