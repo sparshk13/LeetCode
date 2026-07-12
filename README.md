@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sparshk13/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1331-rank-transform-of-an-array](https://github.com/sparshk13/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sparshk13/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -41,6 +42,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sparshk13/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0322-coin-change](https://github.com/sparshk13/LeetCode/tree/master/0322-coin-change) |
 | [0875-koko-eating-bananas](https://github.com/sparshk13/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1331-rank-transform-of-an-array](https://github.com/sparshk13/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sparshk13/LeetCode/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/sparshk13/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
