@@ -43,6 +43,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sparshk13/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/sparshk13/LeetCode/tree/master/0066-plus-one) |
 | [0322-coin-change](https://github.com/sparshk13/LeetCode/tree/master/0322-coin-change) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sparshk13/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/sparshk13/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1331-rank-transform-of-an-array](https://github.com/sparshk13/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sparshk13/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -66,6 +67,7 @@
 | [0009-palindrome-number](https://github.com/sparshk13/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sparshk13/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sparshk13/LeetCode/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sparshk13/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sparshk13/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sparshk13/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sparshk13/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -123,6 +125,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/sparshk13/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/sparshk13/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sparshk13/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sparshk13/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
