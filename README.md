@@ -43,6 +43,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sparshk13/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/sparshk13/LeetCode/tree/master/0066-plus-one) |
+| [0238-product-of-array-except-self](https://github.com/sparshk13/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/sparshk13/LeetCode/tree/master/0322-coin-change) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sparshk13/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/sparshk13/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -155,4 +156,8 @@
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sparshk13/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sparshk13/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
