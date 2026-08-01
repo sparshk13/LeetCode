@@ -20,6 +20,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sparshk13/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sparshk13/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sparshk13/LeetCode/tree/master/0283-move-zeroes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sparshk13/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -48,6 +49,7 @@
 | [0066-plus-one](https://github.com/sparshk13/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sparshk13/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/sparshk13/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/sparshk13/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/sparshk13/LeetCode/tree/master/0322-coin-change) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sparshk13/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0875-koko-eating-bananas](https://github.com/sparshk13/LeetCode/tree/master/0875-koko-eating-bananas) |
