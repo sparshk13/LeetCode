@@ -33,6 +33,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/sparshk13/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sparshk13/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sparshk13/LeetCode/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sparshk13/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/sparshk13/LeetCode/tree/master/0443-string-compression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sparshk13/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sparshk13/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -44,6 +45,7 @@
 | [0049-group-anagrams](https://github.com/sparshk13/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/sparshk13/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sparshk13/LeetCode/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sparshk13/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/sparshk13/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sparshk13/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sparshk13/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sparshk13/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sparshk13/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sparshk13/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Array
 |  |
