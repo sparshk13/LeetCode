@@ -71,6 +71,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/sparshk13/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sparshk13/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sparshk13/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sparshk13/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sparshk13/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sparshk13/LeetCode/tree/master/0191-number-of-1-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sparshk13/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
 | ------- |
