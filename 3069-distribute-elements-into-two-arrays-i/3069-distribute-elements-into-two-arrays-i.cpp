@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> resultArray(vector<int>& nums) {
-        vector<int> arr1, arr2, result;
+        vector<int> arr1, arr2;
         int n = nums.size();
 
         arr1.push_back(nums[0]);
@@ -15,9 +15,8 @@ public:
                 arr2.push_back(nums[i]);
             }
         }
-        result.insert(result.end(), arr1.begin(), arr1.end());
-        result.insert(result.end(), arr2.begin(), arr2.end());
+        arr1.insert(arr1.end(), arr2.begin(), arr2.end());
 
-        return result;
+        return arr1;
     }
 };
