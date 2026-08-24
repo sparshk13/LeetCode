@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int check(int n) {
+    int next(int n) {
         int sum = 0;
         while (n) {
             int digit = n % 10;
@@ -9,18 +9,15 @@ public:
         }
         return sum;
     }
+
     bool isHappy(int n) {
-        unordered_set<int> seen;
+        int slow = next(n);
+        int fast = next(next(n));
 
-        while (n != 1) {
-            if (seen.find(n) != seen.end()) {
-                return false;
-            }
-
-            seen.insert(n);
-            n = check(n);
+        while (slow != fast) {
+            slow = next(slow);
+            fast = next(next(fast));
         }
-
-        return true;
+        return fast == 1;
     }
 };
