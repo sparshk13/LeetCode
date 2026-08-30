@@ -1,13 +1,17 @@
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
-        unordered_set<int> st(nums1.begin(), nums1.end());
+        vector<bool> seen (1001, 0);
         vector<int> ans;
 
+        for (auto num: nums1) {
+            seen[num] = true;
+        }
+
         for (auto num: nums2) {
-            if (st.find(num) != st.end()) {
+            if (seen[num]) {
                 ans.push_back(num);
-                st.erase(num);
+                seen[num] = false;
             }
         }
         return ans;
