@@ -26,9 +26,7 @@ public:
                     }
                     break;
                 }
-                if (count > k) {
-                    break;
-                }
+                
             }
         }
         return ans;
