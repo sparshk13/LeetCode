@@ -1,23 +1,15 @@
 class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
-        int n = nums1.size();
-        int odd = INT_MAX;
-        int even = INT_MAX;
+        int mini = INT_MAX;
+        int odd = 0;
 
         for (auto num: nums1) {
+            mini = min(num, mini);
             if (num % 2 != 0) {
-                odd = min(num, odd);
-            }
-            if (num % 2 == 0) {
-                even = min(num, even);
+                odd++;
             }
         }
-
-        if (odd == INT_MAX) {
-            return true;
-        }
-
-        return odd < even;
+        return odd == 0 || mini % 2 != 0;
     }
 };
