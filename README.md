@@ -8,6 +8,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/sparshk13/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sparshk13/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/sparshk13/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0844-backspace-string-compare](https://github.com/sparshk13/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0283-move-zeroes](https://github.com/sparshk13/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sparshk13/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/sparshk13/LeetCode/tree/master/0443-string-compression) |
+| [0844-backspace-string-compare](https://github.com/sparshk13/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/sparshk13/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sparshk13/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -45,6 +47,7 @@
 | [0242-valid-anagram](https://github.com/sparshk13/LeetCode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sparshk13/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/sparshk13/LeetCode/tree/master/0443-string-compression) |
+| [0844-backspace-string-compare](https://github.com/sparshk13/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sparshk13/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sparshk13/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sparshk13/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -223,6 +226,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/sparshk13/LeetCode/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sparshk13/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sparshk13/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
