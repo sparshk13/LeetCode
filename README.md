@@ -99,6 +99,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sparshk13/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sparshk13/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sparshk13/LeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sparshk13/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sparshk13/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sparshk13/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/sparshk13/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -123,6 +124,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sparshk13/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/sparshk13/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sparshk13/LeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sparshk13/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sparshk13/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
@@ -292,4 +294,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sparshk13/LeetCode/tree/master/0042-trapping-rain-water) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sparshk13/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
