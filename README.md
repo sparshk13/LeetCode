@@ -103,6 +103,7 @@
 | [0875-koko-eating-bananas](https://github.com/sparshk13/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sparshk13/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/sparshk13/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sparshk13/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1331-rank-transform-of-an-array](https://github.com/sparshk13/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sparshk13/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sparshk13/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -126,6 +127,7 @@
 | [0704-binary-search](https://github.com/sparshk13/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sparshk13/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sparshk13/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sparshk13/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
 | ------- |
