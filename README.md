@@ -69,6 +69,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/sparshk13/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sparshk13/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sparshk13/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sparshk13/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/sparshk13/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -112,6 +113,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sparshk13/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sparshk13/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sparshk13/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sparshk13/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sparshk13/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/sparshk13/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sparshk13/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -240,6 +242,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/sparshk13/LeetCode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sparshk13/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sparshk13/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -310,4 +313,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sparshk13/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/sparshk13/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
