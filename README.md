@@ -156,6 +156,7 @@
 | [0189-rotate-array](https://github.com/sparshk13/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sparshk13/LeetCode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sparshk13/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/sparshk13/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sparshk13/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sparshk13/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sparshk13/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -317,4 +318,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/sparshk13/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sparshk13/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
