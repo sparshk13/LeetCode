@@ -88,6 +88,7 @@
 | [0035-search-insert-position](https://github.com/sparshk13/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sparshk13/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/sparshk13/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/sparshk13/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sparshk13/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sparshk13/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sparshk13/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sparshk13/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/sparshk13/LeetCode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/sparshk13/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/sparshk13/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sparshk13/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/sparshk13/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sparshk13/LeetCode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/sparshk13/LeetCode/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/sparshk13/LeetCode/tree/master/0877-stone-game) |
