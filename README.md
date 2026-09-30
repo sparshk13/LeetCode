@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sparshk13/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/sparshk13/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sparshk13/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sparshk13/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sparshk13/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -217,6 +218,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sparshk13/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sparshk13/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sparshk13/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sparshk13/LeetCode/tree/master/0070-climbing-stairs) |
@@ -330,5 +332,10 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sparshk13/LeetCode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sparshk13/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sparshk13/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
