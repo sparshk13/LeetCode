@@ -161,6 +161,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sparshk13/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/sparshk13/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sparshk13/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sparshk13/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sparshk13/LeetCode/tree/master/0189-rotate-array) |
@@ -333,6 +334,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sparshk13/LeetCode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/sparshk13/LeetCode/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sparshk13/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
