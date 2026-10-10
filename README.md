@@ -206,6 +206,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sparshk13/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/sparshk13/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sparshk13/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/sparshk13/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -215,6 +216,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/sparshk13/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sparshk13/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sparshk13/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/sparshk13/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sparshk13/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/sparshk13/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sparshk13/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/sparshk13/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -376,4 +379,8 @@
 | [0078-subsets](https://github.com/sparshk13/LeetCode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/sparshk13/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sparshk13/LeetCode/tree/master/0216-combination-sum-iii) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sparshk13/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
