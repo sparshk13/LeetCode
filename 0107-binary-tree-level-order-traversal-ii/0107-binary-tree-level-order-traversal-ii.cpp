@@ -11,21 +11,22 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root, int depth, deque<vector<int>>& dq) {
+    void dfs(TreeNode* root, int level, deque<vector<int>> &dq) {
         if (!root) return;
 
-        if (depth >= dq.size())
+        if (level >= dq.size()) {
             dq.push_front({});
+        }
 
-        dq[dq.size() - depth - 1].push_back(root->val);
+        dq[dq.size() -  level - 1].push_back(root->val);
 
-        dfs(root->left, depth + 1, dq);
-        dfs(root->right, depth + 1, dq);
+        dfs(root->left, level + 1, dq);
+        dfs(root->right, level + 1, dq);
     }
 
     vector<vector<int>> levelOrderBottom(TreeNode* root) {
         deque<vector<int>> dq;
         dfs(root, 0, dq);
-        return vector<vector<int>>(dq.begin(), dq.end());
+        return vector<vector<int>> (dq.begin(), dq.end());
     }
 };
