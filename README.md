@@ -131,6 +131,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/sparshk13/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sparshk13/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sparshk13/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sparshk13/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sparshk13/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sparshk13/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sparshk13/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -281,6 +282,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/sparshk13/LeetCode/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sparshk13/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sparshk13/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sparshk13/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
